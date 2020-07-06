@@ -1,8 +1,8 @@
 To run this project:
-Backend:
+Backend:Social_login
 
 
-cd sadam-bhai-auth-test
+
 
 install virtualenv, then activate virtualenv -
 
